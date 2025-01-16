@@ -1,0 +1,74 @@
+
+a{
+    text-decoration: none;
+}
+
+/* Navbar CSS Starts */
+#resume-btn{
+    background-color: #0DCAF0;
+    width: 80px;
+    font-size: 14px;
+
+    border: none;
+    
+}
+
+
+.profile-name{
+    color: #00FFFF;
+    font-size: 56px;
+    font-weight: 700;
+}
+
+
+/* Banner CSS Starts */
+
+.banner-image{
+    width: 350px;
+}
+
+#resume-btn-2{
+    background-color: #0DCAF0;
+    border: none;
+}
+
+
+
+/* Project CSS Starts */
+
+.project-banner-1,.project-banner-2{
+    border: 2px solid gray;
+    padding: 15px 0px 15px 0px;
+}
+
+
+.project-banner-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Qualification CSS Starts */
+
+
+
+/* Contact CSS Starts */
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    border: 2px solid gray;
+
+    width: 500px;
+}
+
+/* Footer CSS Starts */
+
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap:10px;
+}
